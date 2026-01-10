@@ -6,3 +6,5 @@ def bu_uzimniki():
 def fixing():
     print("salom")
     print("salomlarrr")
+def fixing():
+    print("aaaaaaa")
