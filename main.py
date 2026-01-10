@@ -8,3 +8,7 @@ def fixing():
     print("salomlarrr")
 def fixing():
     print("aaaaaaa")
+
+def suhrobniki():
+    print("Suhrobniki")
+    
