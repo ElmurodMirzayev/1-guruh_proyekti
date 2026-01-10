@@ -7,3 +7,7 @@ def bu_uzimniki():
 
 def fixing():
     print("salom")
+
+
+
+print("salomlarrrrr")
